@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="/css/client.css">
 
 
-    <title>دانشکده فنی مهندسی بوعلی همدان</title>
+    <title>{{$setting['site_title']}}</title>
 
 </head>
 <body class="clientbody" dir="rtl">
